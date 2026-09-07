@@ -1,10 +1,16 @@
 ## Preview
 ![listado completo](/img/image.png)
+Listado completo
 ![filtrado por estado](/img/image-1.png)
+Filtrado por estado
 ![filtrado por rango de vencimiento](img/image-2.png)
+Filtrado por rango de vencimiento
 ![paginacion 1](/img/image-3.png)
+Paginación
 ![paginacion 2](/img/image-4.png)
+Paginación
 ![detalle de un insumo](/img/image-5.png)
+Detalle de un insumo
 
 ## Acerca del proyecto
 ImplementÉ una funcionalidad concreta usada por laboratorios farmacéuticos que producen medicamentos bajo normas estrictas. En este contexto, ciertos insumos tienen stock crítico y vencimiento, y múltiples sistemas internos y externos necesitan consultar su disponibilidad real antes de autorizar producción, compras o distribución.
